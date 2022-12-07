@@ -23,7 +23,7 @@ function App() {
 
         </Routes>
       </BrowserRouter>
-      {/* <div className="container ">
+      <div className="container ">
         <button title="increment" onClick={() => dispatch(decNum(5))}>
           -
         </button>
@@ -32,7 +32,7 @@ function App() {
           +
         </button>
       </div>
-      <h1 className="text-3xl font-bold text-bold bg-red-100">Hello world!</h1> */}
+      <h1 className="text-3xl font-bold text-bold bg-red-100">Hello world!</h1>
     </div>
   );
 }
